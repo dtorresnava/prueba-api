@@ -11,6 +11,10 @@ de la función launchTwitterRandockApi del controlador RandockApiController.
 
 El desarrollo calculo que ha sido de unas 4 horas contando con el tiempo dedicado a investigar como funciona simfony4 la librería para lanzar la api.
 
+En el .RAR adjunto están los directorios config, src, templates y vendor, son los directorios generados en un proyecto symfon, en el directorio vendor 
+solo hay un directorio el correspondiente a la libreria j7mbo.
+
+Dejo un enlace a mi repositorio GIT donde está la prueba realizada: https://github.com/dtorresnava/prueba-api 
 
 ENGLISH
 
@@ -24,3 +28,8 @@ To test the code you must add the access token, access token secret, consumer ke
 of the launchTwitterRandockApi function of the RandockApiController driver.
 
 The development lasted about 4 hours counting with the time dedicated to investigate how simfony4 works the library to launch the api.
+
+In the .RAR attached are the directories: config, src, templates and vendor, are the directories generated in a symfon project, in the directory vendor
+there is only one directory corresponding to the j7mbo library.
+
+I leave a link to my GIT repository where the test is: https://github.com/dtorresnava/prueba-api 
