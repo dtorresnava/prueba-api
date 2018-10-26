@@ -1,0 +1,4 @@
+randock-api:
+    path: /randock/api/{name}/{number}
+    controller: App\Controller\RandockApiController::randockapi
+

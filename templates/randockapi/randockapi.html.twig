@@ -1,0 +1,5 @@
+<h1>Sharing the first {{ number }} twits from the user {{ name }}</h1>
+
+{% for item in rawdata %}	
+    <li>{% filter upper %}{{ item.tweet }}{% endfilter %}</li>    
+{% endfor %}
